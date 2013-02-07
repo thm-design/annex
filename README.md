@@ -1,6 +1,6 @@
 # Annex
 
-This is where I will keep demo and tutorial files used for my blog design4lifeblog.com.
+This is where I keep demo and tutorial files used for my blog design4lifeblog.com.
 
 ## First demo: 
 
